@@ -47,7 +47,7 @@ def run_update(cam_address):
     except Exception as e:
         print('network error communication with the camera: ERROR ' + str(e))
         return
-    print('Status code: ' + response.status_code)
+    print('Status code: ' + str(response.status_code))
     print(response.content)
 
 
