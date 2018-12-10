@@ -1,0 +1,6 @@
+[DEFAULT]
+cam_username = user
+cam_password = pssword
+cam_list = 192.168.1.1 192.168.1.2 1 192.168.1.3
+axis_firmware_bin = V5915_5_75_1_11.bin
+axis_firmware_hash = 82e44e68b580626b568b07a1b7258b445ab8e22ff4f18ddc167cf87588f0ec46
